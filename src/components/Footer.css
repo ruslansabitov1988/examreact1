@@ -1,0 +1,20 @@
+.footer_box{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10PX;
+}
+.footer_box_content{
+    width: 95%;
+    height: 300px;
+    display:flex;
+    justify-content: space-between;
+    margin:  0 auto;
+    flex-direction: column;
+}
+.footer_box_content_title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #1c3473;
+}

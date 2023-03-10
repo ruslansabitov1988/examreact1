@@ -1,0 +1,133 @@
+.container_header{
+    margin: 0 auto;
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    width: 95%;
+    height: 160px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.first{
+    width: 400px;
+    display: flex;
+  
+    justify-content: space-around;
+    height: 30%;
+}
+.first p{
+   color: #0f1d40;
+   font-weight: bold;
+
+}
+.bayer{
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    color: #0f1d40;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-size: cover;
+}
+
+.second{
+    display: flex;
+    width: 100%;
+    background-color: 1px solid green;
+    justify-content: space-between;
+    height: 30%;
+
+}
+.logo{
+    align-items: center;
+    display: flex;
+    width: 30%;
+}
+.second-contacts{
+    align-items: center;
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second-icons{
+   width: 30%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.third{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 30%;
+}
+.left{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.catalog-product{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    flex-direction: column;
+
+}
+.stock{
+    width: 30%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+.right{
+    width: 60%;
+   
+}
+.input{
+    width: 94.5%;
+    height: 92%;
+    padding: 0 20px;
+    border-radius: 10px;
+    font-weight: 300;
+    font-size: medium;
+}
+.search{
+    width: 32px;
+    margin-top: -40px;
+    margin-left: 730px;
+}
+.btn{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    color: white;
+    background-color: #2049b0;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.countMaterial{
+    width: 20px;
+    height: 20px;
+    text-decoration: none;
+}
+.header_search_btn{
+    cursor: pointer;
+}

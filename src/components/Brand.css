@@ -1,0 +1,40 @@
+.brand_container{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.brand_container_text{
+    font-size: 20px;
+    font-weight: bold;
+    color: #1c3473;
+    align-items: center;
+}
+.brand_container_box1{
+    display: flex;
+    justify-content: space-between;
+}
+.brand_container_img{
+    width: 200px;
+    height: 100px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: brown;
+    filter: grayscale(1);
+    cursor: pointer;
+
+}
+.brand_container_img:hover{
+    width: 200px;
+    height: 100px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: brown;
+    filter: grayscale(0);
+    transition: 0.5s;
+    cursor: pointer;
+}

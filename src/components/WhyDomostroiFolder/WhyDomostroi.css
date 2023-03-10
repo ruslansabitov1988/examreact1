@@ -1,0 +1,112 @@
+.container_whydomostroi{
+    width: 95%;
+    height: 800px;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container_whydomostroi_box{
+    display: flex;
+   justify-content: space-between;
+}
+.container_whydomostroi1{
+    width: 25%;
+    height: 170px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.container_whydomostroi1_content{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container_whydomostroi1_content_number{
+    width: 85px;
+    height: 90px;
+    font-size: 4rem;
+    color: #f6b00f;
+}
+
+.container_whydomostroi1_content_txt{
+    display: flex;
+    width: 235px;
+    height: 90px;
+
+}
+
+.container_whydomostroi1_content_txt_span{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    color: #1c3473;
+}
+
+.container_whydomostroi1_content_content{
+    width: 100%;
+    display: flex;
+}
+.container_whydomostroi1_content_content_span{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    color: #64759f;
+}
+.container_whydomostroi1_content_img1{
+    background-image: url(../../image/1papka.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_content_img2{
+    background-image: url(../../image/1mawina.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_content_img3{
+    background-image: url(../../image/1svitok.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_content_img4{
+    background-image: url(../../image/1zawita.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_content_img5{
+    background-image: url(../../image/1deliveri.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_content_img6{
+    background-image: url(../../image/1settings.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_content_img7{
+    background-image: url(../../image/1heard.svg);
+    width: 85px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container_whydomostroi1_void{
+    width: 25%;
+    height: 170px;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 10px;
+}

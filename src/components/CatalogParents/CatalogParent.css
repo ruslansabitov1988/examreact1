@@ -1,0 +1,9 @@
+.container_catalogParent{
+    width: 100%;
+    height: 750px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
